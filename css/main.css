@@ -12,9 +12,6 @@ body {
   font-size: 40px;
 }
 
-@media all and (max-width: 719px) {
-  
-}
 @media all and (min-width: 720px) {
   .sidebar {
     display: flex;
@@ -24,17 +21,14 @@ body {
     grid-area: sidebar;
     text-align: center;
   }
-
   button {
     border-radius: 5px;
     background-color: #f4d9ec;
   }
-
   .sidebar li {
     display: inline;
   }
 }
-
 .imagen_side {
   display: flex;
   height: 30%;
@@ -50,28 +44,23 @@ body {
     transform: translateX(200px);
     opacity: 0;
   }
-
   10% {
     transform: translateX(0);
     opacity: 1;
   }
-
   20% {
     transform: translateX(0);
     opacity: 1;
   }
-
   30% {
     transform: translateX(-200px);
     opacity: 0;
   }
-
   100% {
     transform: translateX(-200px);
     opacity: 0;
   }
 }
-
 .slideimg {
   position: relative;
   width: 100vw;
@@ -129,14 +118,14 @@ img:nth-child(4) {
 }
 
 .productos div {
-  display:flex;
+  display: flex;
   border: 2px;
   margin: 5%;
 }
 
 .productos img {
-  height:300;
-  width:30%;
+  height: 300;
+  width: 30%;
   margin: 5%;
 }
 
@@ -156,3 +145,5 @@ footer {
   bottom: 0;
   text-align: right;
 }
+
+/*# sourceMappingURL=main.css.map */
