@@ -12,8 +12,7 @@ body {
   font-size: 50px;
   margin-top: 30px;
 }
-
-.titulo h2 {
+.titulo h2{
   font-size: 30px;
   margin: 30px;
 }
@@ -27,6 +26,7 @@ body {
     grid-area: sidebar;
     text-align: center;
   }
+
   button {
     border-radius: 5px !important;
     background-color: #f4d9ec !important;
@@ -34,14 +34,17 @@ body {
     color: #9e3f78 !important;
     margin-top: 25%;
   }
+
   button a {
     color: #9e3f78 !important;
     text-decoration: none !important;
   }
+
   .sidebar li {
     display: inline;
   }
 }
+
 .imagen_side {
   display: flex;
   height: 30%;
@@ -57,23 +60,28 @@ body {
     transform: translateX(200px);
     opacity: 0;
   }
+
   10% {
     transform: translateX(0);
     opacity: 1;
   }
+
   20% {
     transform: translateX(0);
     opacity: 1;
   }
+
   30% {
     transform: translateX(-200px);
     opacity: 0;
   }
+
   100% {
     transform: translateX(-200px);
     opacity: 0;
   }
 }
+
 .slideimg {
   position: relative;
   width: 100vw;
@@ -202,7 +210,6 @@ p {
   margin-bottom: 30px;
   color: #9e3f78;
 }
-
 .login-container {
   width: 300px;
   color: #9e3f78;
@@ -210,12 +217,11 @@ p {
   border: 1px solid #ccc;
   padding: 20px;
   border-radius: 5px;
+  
 }
-
 form {
   text-align: left;
 }
-
 input {
   width: 100%;
   padding: 8px;
@@ -223,5 +229,3 @@ input {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
-
-/*# sourceMappingURL=main.css.map */
