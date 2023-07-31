@@ -247,4 +247,31 @@ input {
   border-radius: 5px;
 }
 
+.body-error {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.error-container {
+  text-align: center;
+}
+
+.error-heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #9e3f78;
+  margin-bottom: 1rem;
+}
+
+.error-message {
+  font-size: 1.5rem;
+  color: #333;
+}
+
 /*# sourceMappingURL=main.css.map */
