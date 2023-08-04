@@ -16,12 +16,15 @@ Les dejo el link:
 
 https://jade-medovik-dd222d.netlify.app/
 
+Lenguajes utilizados en este proyecto:
+
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+
 Contactame!👇
 
 belureyes89@gmail.com
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
 
 
 
