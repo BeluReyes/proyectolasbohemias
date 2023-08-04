@@ -1,5 +1,7 @@
 body {
   background-color: #f4d9ec;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 .titulo {
