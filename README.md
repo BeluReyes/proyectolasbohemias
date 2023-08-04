@@ -14,7 +14,7 @@ La plataforma destaca por fomentar la sostenibilidad y el comercio justo, apoyan
 Gracias por acompañarme y visitar mi Proyecto!❣️
 Les dejo el link:
 
-file:///C:/Users/Usuario1/Desktop/CODER/miweb/index.html
+https://jade-medovik-dd222d.netlify.app/
 
 Contactame!👇
 
