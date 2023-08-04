@@ -20,6 +20,10 @@ Contactame!👇
 
 belureyes89@gmail.com
 
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+
+
 
 
 
